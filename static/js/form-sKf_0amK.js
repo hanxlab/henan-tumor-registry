@@ -1,0 +1,1 @@
+function o(n){return`请输入${n}`}function e(n){return`请选择${n}`}function t(n){return Array.isArray(n)?n:[]}function i(n){const a=t(n);return a.length?a[a.length-1]:void 0}const r="admin-dialog-form",s="560px";export{r as a,s as b,i as g,o as i,t as n,e as s};
